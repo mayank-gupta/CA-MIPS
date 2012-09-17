@@ -1,0 +1,9 @@
+This project implements the pipelined version of the MIPS execution
+with a modified form of Tomasulo's algorithm.
+To Compile
+  Run "make" in the folder.
+
+To Run
+  java MIPSsim <inputFileName> <outputFileName>
+
+NOTE: For further queries contact : mayank519@gmail.com
